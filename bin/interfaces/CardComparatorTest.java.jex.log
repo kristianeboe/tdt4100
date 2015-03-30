@@ -1,0 +1,54 @@
+<eResourceEntry  timestamp='1392969759733' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eResourceEntry  timestamp='1392984985738' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392984993298' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDiamondIsTrumph'/>
+<eObjectEntry  timestamp='1392984995556' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1392998051184' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1392998089645' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392998089652' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1392998089658' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1393506969348' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393506971012' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testNormal'/>
+<eObjectEntry  timestamp='1393506973031' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1393572212747' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393572216110' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testNormal'/>
+<eObjectEntry  timestamp='1393572216776' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572218832' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testAceIsHighest'/>
+<eObjectEntry  timestamp='1393572219478' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572221736' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDiamondIsTrumph'/>
+<eObjectEntry  timestamp='1393572222416' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572273131' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572273137' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572273142' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572343926' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572343932' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572343937' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572720120' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572720125' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572720131' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572828224' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572828230' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572828234' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572898039' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572898044' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572898049' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572911853' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572911858' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393572911863' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572922630' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572922635' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572922640' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eResourceEntry  timestamp='1393572950575' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393572954037' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testNormal'/>
+<eObjectEntry  timestamp='1393572954702' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572955458' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testAceIsHighest'/>
+<eObjectEntry  timestamp='1393572956654' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393572957660' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDiamondIsTrumph'/>
+<eObjectEntry  timestamp='1393572958753' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eResourceEntry  timestamp='1393676934297' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393676937355' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testNormal'/>
+<eObjectEntry  timestamp='1393676938137' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393676938765' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testAceIsHighest'/>
+<eObjectEntry  timestamp='1393676939512' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testDiamondIsTrumph'/>
+<eObjectEntry  timestamp='1393676939996' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393676941710' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testAceIsHighest'/>
+<eObjectEntry  timestamp='1393676942133' resUri='platform:/resource/tdt4100/src/interfaces/CardComparatorTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>

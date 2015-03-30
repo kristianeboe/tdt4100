@@ -1,0 +1,22 @@
+<eResourceEntry  timestamp='1393419694727' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393419699137' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1393419703331' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393419705534' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393419707555' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393419709698' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testGridIteratorColumnMajor'/>
+<eObjectEntry  timestamp='1393419711464' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1393573719294' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393573720696' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1393573721325' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393573723220' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393573723828' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393573724644' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='junit test launch' value='testGridIteratorColumnMajor'/>
+<eObjectEntry  timestamp='1393573725772' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393573730935' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='junit test launch' value='testGrid'/>
+<eObjectEntry  timestamp='1393573731564' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='false'/>
+<eObjectEntry  timestamp='1393573732551' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='junit test launch' value='testGridIteratorRowMajor'/>
+<eObjectEntry  timestamp='1393573733551' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='false'/>
+<eResourceEntry  timestamp='1393597989183' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' key='resource selected' value='null'/>
+<eObjectEntry  timestamp='1393598000067' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.0' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393598000071' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.1' key='test run status' value='true'/>
+<eObjectEntry  timestamp='1393598000075' resUri='platform:/resource/tdt4100/src/interfaces/StringGridTest.java.jex' fragmentId='//@requirements.0/@requirements.2' key='test run status' value='true'/>
