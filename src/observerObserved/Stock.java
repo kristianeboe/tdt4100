@@ -9,21 +9,23 @@ import java.util.List;
 public class Stock {
     protected String ticker;
     protected double price;
-    protected List<StockListener> stockListeners = new ArrayList<>();
+    protected List<StockListener> stockListeners;
 
-    public Stock(String ticker, double price){
-        this.ticker = ticker;
-        this.price = price;
-    }
 
-    public void setPrice(double price){
-        if (price <= 0){
+    public Stock(String ticker, double price) {
+        if (price <= 0) {
             throw new IllegalArgumentException("price must be positive");
         }
-        for (StockListener listener:stockListeners){
+        this.ticker = ticker;
+        this.price = price;
+        stockListeners = new ArrayList<>();
+    }
 
-            listener.stockPriceChanged(this, this.price, price);
+    public void setPrice(double price) {
+        if (price <= 0) {
+            throw new IllegalArgumentException("price must be positive");
         }
+        firePriceChanged(price);
         this.price = price;
     }
 
@@ -35,7 +37,7 @@ public class Stock {
         return price;
     }
 
-    public void addStockListener(StockListener listener){
+    public void addStockListener(StockListener listener) {
         if (!stockListeners.contains(listener)) {
             stockListeners.add(listener);
         }
@@ -45,6 +47,12 @@ public class Stock {
     public void removeStockListener(StockListener listener) {
         if (stockListeners.contains(listener)) {
             stockListeners.remove(listener);
+        }
+    }
+
+    protected void firePriceChanged(double newPrice){
+        for (StockListener listener : stockListeners) {
+            listener.stockPriceChanged(this, this.price, newPrice);
         }
     }
 }
