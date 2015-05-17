@@ -1,4 +1,4 @@
-package exams.kont2014;
+package exam2014k;
 
 import java.util.Date;
 import java.util.HashMap;

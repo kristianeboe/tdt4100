@@ -1,10 +1,9 @@
-package exams.kont2014;
+package exam2014k;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
-import java.rmi.server.ExportException;
 import java.util.ArrayList;
 import java.util.List;
 

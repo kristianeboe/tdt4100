@@ -1,4 +1,4 @@
-package exams.kont2014;
+package exam2014k;
 
 /**
  * Created by Kristian on 10/05/15.
