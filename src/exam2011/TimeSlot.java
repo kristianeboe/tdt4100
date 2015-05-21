@@ -22,7 +22,7 @@ public class TimeSlot implements Comparable<TimeSlot> {
             endHours += 1;
             endMinutes = endMinutes % 60;
         }
-        return new DayTime(endHours, endMinutes);
+        return new DayTime(endHours%24, endMinutes);
 
     }
 

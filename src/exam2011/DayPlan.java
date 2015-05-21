@@ -70,6 +70,10 @@ public class DayPlan {
         return (toHour-fromHour)*60+toMinutes-fromMinutes;
     }
 
+    public static void main(String[] args) {
+        TimeSlot t = new TimeSlot("Java", 23, 45, 91);
+        System.out.println(t);
+    }
 
 
 }
